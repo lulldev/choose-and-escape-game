@@ -1,0 +1,1 @@
+import '/imports/ui/pages/welcome/welcome-game.js';
