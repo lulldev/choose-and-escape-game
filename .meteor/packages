@@ -22,3 +22,6 @@ kadira:flow-router
 peerlibrary:blaze-components
 kadira:blaze-layout
 less
+u2622:persistent-session
+twbs:bootstrap
+brentjanderson:buzz
